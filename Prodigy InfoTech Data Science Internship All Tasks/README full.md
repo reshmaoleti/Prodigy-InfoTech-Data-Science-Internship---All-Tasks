@@ -36,7 +36,7 @@ Greetings to all who visited my Prodigy InfoTech Internship repository! This rep
 - It also enhanced my ability to create clear visuals, aiding in communicating findings and recommendations for road safety measures.
 
 
-#### My Certificates
+#### My Certificates :
  [View My Offer Letter](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/blob/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/Offer%20Letter.pdf)
 
 [View My Completion Certificate] (....)
