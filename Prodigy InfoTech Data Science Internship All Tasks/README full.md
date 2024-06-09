@@ -4,7 +4,7 @@ Greetings to all who visited my Prodigy InfoTech Internship repository! This rep
 
 ## Task Overview
 
-## I have worked on the following tasks during the internship
+## I have worked on the following tasks during the internship :
 #### Task 1. Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
  [Click here to see Task-1](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/tree/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/PRODIGY_DS_01)
 - Enhanced my skills in producing visual representations such as bar graphs and histograms to showcase the spread of both categorical and continuous data
@@ -35,12 +35,13 @@ Greetings to all who visited my Prodigy InfoTech Internship repository! This rep
 - It focused on uncovering patterns in traffic accident data, revealing links between road conditions, weather, and accidents. 
 - It also enhanced my ability to create clear visuals, aiding in communicating findings and recommendations for road safety measures.
 
-
+---
 #### My Certificates :
  [View My Offer Letter](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/blob/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/Offer%20Letter.pdf)
 
 [View My Completion Certificate] (....)
 
+---
 ## Contact Information
 
 For any inquiries or collaborations, feel free to reach out:
