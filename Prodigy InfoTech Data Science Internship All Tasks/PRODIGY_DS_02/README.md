@@ -3,13 +3,13 @@
 
 Greetings to all who visited my Prodigy InfoTech Internship repository! This repository contains all the documents related to Task 2 of my internship journey, focusing on data cleaning, analysis, and uncovering insightful patterns.
 
-## Task Overview
+## Task 2 Overview
 
 Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patters and trends in the data.
 
 ## Knowledge Gained
-
-Task 2 Enhanced my expertise in data preprocessing and exploratory analysis, refining competencies in data cleaning, EDA, and extracting actionable insights.
+- Enhanced my expertise in data preprocessing and exploratory analysis,
+- Refined competencies in data cleaning, EDA, and extracting actionable insights.
 
 ## Connect with Me
 
