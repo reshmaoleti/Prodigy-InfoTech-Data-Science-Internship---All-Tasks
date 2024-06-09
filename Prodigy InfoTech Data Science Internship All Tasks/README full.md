@@ -25,7 +25,7 @@ Greetings to all who visited my Prodigy InfoTech Internship repository! This rep
 
 
 #### Task 4. Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
- [Click here to see Task-3](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/tree/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/PRODIGY_DS_04)
+ [Click here to see Task-4](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/tree/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/PRODIGY_DS_04)
 - Enhanced my expertise in analyzing and visualizing sentiment patterns in social media data has 
 - Improved my understanding of how to interpret public opinion and attitudes towards specific topics or brands.
 
