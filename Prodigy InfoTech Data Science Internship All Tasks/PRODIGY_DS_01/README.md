@@ -2,13 +2,13 @@
 
 Greetings to all who visited my Prodigy InfoTech Internship repository! This repository contains all the documents related to Task 1 of my internship journey, focusing on data cleaning, analysis, and uncovering insightful patterns.
 
-## Task Overview
+## Task 1 Overview
 
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
 ## Knowledge Gained
-
-Task 1 Enhanced my skills in producing visual representations such as bar graphs and histograms to showcase the spread of both categorical and continuous data, making it easier to grasp population demographics or analyze various datasets.
+- Enhanced my skills in producing visual representations such as bar graphs and histograms to showcase the spread of both categorical and continuous data.
+- Made it easier to grasp population demographics or analyze various datasets.
 
 ## Connect with Me
 
