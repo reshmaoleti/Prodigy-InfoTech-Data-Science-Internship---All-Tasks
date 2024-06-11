@@ -41,6 +41,8 @@ Greetings to all who visited my Prodigy InfoTech Internship repository! This rep
 
 [View My Completion Certificate] (....)
 
+[View My LOR] (....)
+
 ---
 ## Contact Information
 
