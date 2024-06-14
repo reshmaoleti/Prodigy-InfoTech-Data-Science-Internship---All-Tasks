@@ -21,13 +21,13 @@ Greetings to all who visited my Prodigy InfoTech Internship repository! This rep
 #### Task 3. Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
  [Click here to see Task-3](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/tree/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/PRODIGY_DS_03)
 - Enhanced my expertise in building decision tree classifiers for predictive modelling tasks.
-- Understanding how demographic and behavioral data influence customer purchasing decisions.
+- Understanding how demographic and behavioral data can influence customer purchasing decisions.
 
 
 #### Task 4. Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
  [Click here to see Task-4](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/tree/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/PRODIGY_DS_04)
-- Enhanced my expertise in analyzing and visualizing sentiment patterns in social media data has 
-- Improved my understanding of how to interpret public opinion and attitudes towards specific topics or brands.
+- Enhanced my expertise in analyzing and visualizing sentiment patterns in social media data 
+- Improved my understanding of how to interpret public opinions and attitudes towards specific topics or brands.
 
 #### Task 5. Analyze traffic accident data to identify patters related to road conditions, weather and time of day. Visualize accident hotspots and contributing factors.
  [Click here to see Task-5](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/tree/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/PRODIGY_DS_05)
