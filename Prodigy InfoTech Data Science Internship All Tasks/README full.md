@@ -20,7 +20,7 @@ Greetings to all who visited my Prodigy InfoTech Internship repository! This rep
 
 #### Task 3. Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
  [Click here to see Task-3](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/tree/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/PRODIGY_DS_03)
-- Enhanced my expertise in building decision tree classifiers for predictive modeling tasks.
+- Enhanced my expertise in building decision tree classifiers for predictive modelling tasks.
 - Understanding how demographic and behavioral data influence customer purchasing decisions.
 
 
