@@ -37,11 +37,11 @@ Greetings to all who visited my Prodigy InfoTech Internship repository! This rep
 
 ---
 #### My Certificates :
- [View My Offer Letter](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/blob/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/Offer%20Letter.pdf)
+[View My Offer Letter](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/blob/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/Offer%20Letter.pdf)
 
-[View My Completion Certificate] (....)
+[View My Completion Certificate](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/blob/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/Offer%20Letter.pdf)
 
-[View My LOR] (....)
+[View My LOR](https://github.com/reshmaoleti/Prodigy-InfoTech-Data-Science-Internship---All-Tasks/blob/main/Prodigy%20InfoTech%20Data%20Science%20Internship%20All%20Tasks/Offer%20Letter.pdf)
 
 ---
 ## Contact Information
