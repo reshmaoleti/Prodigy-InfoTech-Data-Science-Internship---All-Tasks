@@ -1,4 +1,4 @@
-# Prodigy InfoTech Internship: Data Analysis Insights
+# Titanic Data Set : Data Analysis Insights
 
 
 Greetings to all who visited my Prodigy InfoTech Internship repository! This repository contains all the documents related to Task 2 of my internship journey, focusing on data cleaning, analysis, and uncovering insightful patterns.
